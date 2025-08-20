@@ -1,7 +1,12 @@
+using Microsoft.EntityFrameworkCore;
+using Project2_TaiTungHung.Models;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+var connectionString = builder.Configuration.GetConnectionString("SanPham");
+builder.Services.AddDbContext<CuaHangBanhNgotContext> (x => x.UseSqlServer(connectionString));
 
 var app = builder.Build();
 
@@ -22,6 +27,6 @@ app.UseAuthorization();
 
 app.MapControllerRoute(
     name: "default",
-    pattern: "{controller=TTHHome}/{action=Index}/{id?}");
+    pattern: "{controller=TTHHome}/{action=TTHIndex}/{id?}");
 
 app.Run();

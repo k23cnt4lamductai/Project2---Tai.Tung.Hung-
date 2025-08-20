@@ -3,20 +3,52 @@
   "WorkspaceRootPath": "C:\\Project 2\\Project2---Tai.Tung.Hung-\\Project2_TaiTungHung\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{3E62E132-CB55-4942-B0D8-27FADAF735B1}|Project2_TaiTungHung.csproj|c:\\project 2\\project2---tai.tung.hung-\\project2_taitunghung\\controllers\\sanphamscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E62E132-CB55-4942-B0D8-27FADAF735B1}|Project2_TaiTungHung.csproj|solutionrelative:controllers\\sanphamscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E62E132-CB55-4942-B0D8-27FADAF735B1}|Project2_TaiTungHung.csproj|c:\\project 2\\project2---tai.tung.hung-\\project2_taitunghung\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E62E132-CB55-4942-B0D8-27FADAF735B1}|Project2_TaiTungHung.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E62E132-CB55-4942-B0D8-27FADAF735B1}|Project2_TaiTungHung.csproj|c:\\project 2\\project2---tai.tung.hung-\\project2_taitunghung\\views\\sanphams\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E62E132-CB55-4942-B0D8-27FADAF735B1}|Project2_TaiTungHung.csproj|solutionrelative:views\\sanphams\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E62E132-CB55-4942-B0D8-27FADAF735B1}|Project2_TaiTungHung.csproj|c:\\project 2\\project2---tai.tung.hung-\\project2_taitunghung\\views\\sanphams\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E62E132-CB55-4942-B0D8-27FADAF735B1}|Project2_TaiTungHung.csproj|solutionrelative:views\\sanphams\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E62E132-CB55-4942-B0D8-27FADAF735B1}|Project2_TaiTungHung.csproj|c:\\project 2\\project2---tai.tung.hung-\\project2_taitunghung\\models\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E62E132-CB55-4942-B0D8-27FADAF735B1}|Project2_TaiTungHung.csproj|solutionrelative:models\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3E62E132-CB55-4942-B0D8-27FADAF735B1}|Project2_TaiTungHung.csproj|c:\\project 2\\project2---tai.tung.hung-\\project2_taitunghung\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3E62E132-CB55-4942-B0D8-27FADAF735B1}|Project2_TaiTungHung.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3E62E132-CB55-4942-B0D8-27FADAF735B1}|Project2_TaiTungHung.csproj|c:\\project 2\\project2---tai.tung.hung-\\project2_taitunghung\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3E62E132-CB55-4942-B0D8-27FADAF735B1}|Project2_TaiTungHung.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{3E62E132-CB55-4942-B0D8-27FADAF735B1}|Project2_TaiTungHung.csproj|c:\\project 2\\project2---tai.tung.hung-\\project2_taitunghung\\models\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E62E132-CB55-4942-B0D8-27FADAF735B1}|Project2_TaiTungHung.csproj|solutionrelative:models\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3E62E132-CB55-4942-B0D8-27FADAF735B1}|Project2_TaiTungHung.csproj|c:\\project 2\\project2---tai.tung.hung-\\project2_taitunghung\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3E62E132-CB55-4942-B0D8-27FADAF735B1}|Project2_TaiTungHung.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{3E62E132-CB55-4942-B0D8-27FADAF735B1}|Project2_TaiTungHung.csproj|c:\\project 2\\project2---tai.tung.hung-\\project2_taitunghung\\models\\cuahangbanhngotcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E62E132-CB55-4942-B0D8-27FADAF735B1}|Project2_TaiTungHung.csproj|solutionrelative:models\\cuahangbanhngotcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E62E132-CB55-4942-B0D8-27FADAF735B1}|Project2_TaiTungHung.csproj|c:\\project 2\\project2---tai.tung.hung-\\project2_taitunghung\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3E62E132-CB55-4942-B0D8-27FADAF735B1}|Project2_TaiTungHung.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3E62E132-CB55-4942-B0D8-27FADAF735B1}|Project2_TaiTungHung.csproj|c:\\project 2\\project2---tai.tung.hung-\\project2_taitunghung\\views\\shared\\_tthlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{3E62E132-CB55-4942-B0D8-27FADAF735B1}|Project2_TaiTungHung.csproj|solutionrelative:views\\shared\\_tthlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E62E132-CB55-4942-B0D8-27FADAF735B1}|Project2_TaiTungHung.csproj|c:\\project 2\\project2---tai.tung.hung-\\project2_taitunghung\\views\\tthhome\\tthabout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E62E132-CB55-4942-B0D8-27FADAF735B1}|Project2_TaiTungHung.csproj|solutionrelative:views\\tthhome\\tthabout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E62E132-CB55-4942-B0D8-27FADAF735B1}|Project2_TaiTungHung.csproj|c:\\project 2\\project2---tai.tung.hung-\\project2_taitunghung\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E62E132-CB55-4942-B0D8-27FADAF735B1}|Project2_TaiTungHung.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,24 +58,141 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Project 2\\Project2---Tai.Tung.Hung-\\Project2_TaiTungHung\\Views\\SanPhams\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\SanPhams\\Delete.cshtml",
+              "ToolTip": "C:\\Project 2\\Project2---Tai.Tung.Hung-\\Project2_TaiTungHung\\Views\\SanPhams\\Delete.cshtml",
+              "RelativeToolTip": "Views\\SanPhams\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-20T08:28:40.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Project 2\\Project2---Tai.Tung.Hung-\\Project2_TaiTungHung\\Views\\SanPhams\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\SanPhams\\Create.cshtml",
+              "ToolTip": "C:\\Project 2\\Project2---Tai.Tung.Hung-\\Project2_TaiTungHung\\Views\\SanPhams\\Create.cshtml",
+              "RelativeToolTip": "Views\\SanPhams\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-20T08:28:38.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "SanPhamsController.cs",
+              "DocumentMoniker": "C:\\Project 2\\Project2---Tai.Tung.Hung-\\Project2_TaiTungHung\\Controllers\\SanPhamsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SanPhamsController.cs",
+              "ToolTip": "C:\\Project 2\\Project2---Tai.Tung.Hung-\\Project2_TaiTungHung\\Controllers\\SanPhamsController.cs",
+              "RelativeToolTip": "Controllers\\SanPhamsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T08:19:33.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NhanVien.cs",
+              "DocumentMoniker": "C:\\Project 2\\Project2---Tai.Tung.Hung-\\Project2_TaiTungHung\\Models\\NhanVien.cs",
+              "RelativeDocumentMoniker": "Models\\NhanVien.cs",
+              "ToolTip": "C:\\Project 2\\Project2---Tai.Tung.Hung-\\Project2_TaiTungHung\\Models\\NhanVien.cs",
+              "RelativeToolTip": "Models\\NhanVien.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T08:17:30.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SanPham.cs",
+              "DocumentMoniker": "C:\\Project 2\\Project2---Tai.Tung.Hung-\\Project2_TaiTungHung\\Models\\SanPham.cs",
+              "RelativeDocumentMoniker": "Models\\SanPham.cs",
+              "ToolTip": "C:\\Project 2\\Project2---Tai.Tung.Hung-\\Project2_TaiTungHung\\Models\\SanPham.cs",
+              "RelativeToolTip": "Models\\SanPham.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T08:17:27.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Project 2\\Project2---Tai.Tung.Hung-\\Project2_TaiTungHung\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Project 2\\Project2---Tai.Tung.Hung-\\Project2_TaiTungHung\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T07:50:58.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Project 2\\Project2---Tai.Tung.Hung-\\Project2_TaiTungHung\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Project 2\\Project2---Tai.Tung.Hung-\\Project2_TaiTungHung\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-20T08:05:12.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CuaHangBanhNgotContext.cs",
+              "DocumentMoniker": "C:\\Project 2\\Project2---Tai.Tung.Hung-\\Project2_TaiTungHung\\Models\\CuaHangBanhNgotContext.cs",
+              "RelativeDocumentMoniker": "Models\\CuaHangBanhNgotContext.cs",
+              "ToolTip": "C:\\Project 2\\Project2---Tai.Tung.Hung-\\Project2_TaiTungHung\\Models\\CuaHangBanhNgotContext.cs",
+              "RelativeToolTip": "Models\\CuaHangBanhNgotContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T08:04:38.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Project 2\\Project2---Tai.Tung.Hung-\\Project2_TaiTungHung\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Project 2\\Project2---Tai.Tung.Hung-\\Project2_TaiTungHung\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB0AAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-20T07:42:07.972Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 10,
+              "Title": "TTHAbout.cshtml",
+              "DocumentMoniker": "C:\\Project 2\\Project2---Tai.Tung.Hung-\\Project2_TaiTungHung\\Views\\TTHHome\\TTHAbout.cshtml",
+              "RelativeDocumentMoniker": "Views\\TTHHome\\TTHAbout.cshtml",
+              "ToolTip": "C:\\Project 2\\Project2---Tai.Tung.Hung-\\Project2_TaiTungHung\\Views\\TTHHome\\TTHAbout.cshtml",
+              "RelativeToolTip": "Views\\TTHHome\\TTHAbout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-20T07:52:18.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\Project 2\\Project2---Tai.Tung.Hung-\\Project2_TaiTungHung\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
@@ -56,26 +205,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Project 2\\Project2---Tai.Tung.Hung-\\Project2_TaiTungHung\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Project 2\\Project2---Tai.Tung.Hung-\\Project2_TaiTungHung\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "Views\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-20T07:41:08.587Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "_TTHLayout.cshtml",
               "DocumentMoniker": "C:\\Project 2\\Project2---Tai.Tung.Hung-\\Project2_TaiTungHung\\Views\\Shared\\_TTHLayout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_TTHLayout.cshtml",
               "ToolTip": "C:\\Project 2\\Project2---Tai.Tung.Hung-\\Project2_TaiTungHung\\Views\\Shared\\_TTHLayout.cshtml",
               "RelativeToolTip": "Views\\Shared\\_TTHLayout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-08-20T07:41:04.016Z",
               "EditorCaption": ""

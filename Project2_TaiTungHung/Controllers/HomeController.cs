@@ -13,12 +13,12 @@ namespace Project2_TaiTungHung.Controllers
             _logger = logger;
         }
 
-        public IActionResult Index()
+        public IActionResult TTHIndex()
         {
             return View();
         }
 
-        public IActionResult Privacy()
+        public IActionResult TTHAbout()
         {
             return View();
         }
