@@ -4,11 +4,11 @@ using Project2_TaiTungHung.Models;
 
 namespace Project2_TaiTungHung.Controllers
 {
-    public class HomeController : Controller
+    public class TTHHomeController : Controller
     {
-        private readonly ILogger<HomeController> _logger;
+        private readonly ILogger<TTHHomeController> _logger;
 
-        public HomeController(ILogger<HomeController> logger)
+        public TTHHomeController(ILogger<TTHHomeController> logger)
         {
             _logger = logger;
         }

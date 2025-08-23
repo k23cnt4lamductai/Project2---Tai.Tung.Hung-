@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\project 2\\Project2---Tai.Tung.Hung-\\Project2---Tai.Tung.Hung-\\Project2_TaiTungHung\\Project2_TaiTungHung.csproj": {}
+    "E:\\project 2\\Project2---Tai.Tung.Hung-\\Project2---Tai.Tung.Hung-\\Project2---Tai.Tung.Hung-\\Project2_TaiTungHung\\Project2_TaiTungHung.csproj": {}
   },
   "projects": {
-    "E:\\project 2\\Project2---Tai.Tung.Hung-\\Project2---Tai.Tung.Hung-\\Project2_TaiTungHung\\Project2_TaiTungHung.csproj": {
+    "E:\\project 2\\Project2---Tai.Tung.Hung-\\Project2---Tai.Tung.Hung-\\Project2---Tai.Tung.Hung-\\Project2_TaiTungHung\\Project2_TaiTungHung.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\project 2\\Project2---Tai.Tung.Hung-\\Project2---Tai.Tung.Hung-\\Project2_TaiTungHung\\Project2_TaiTungHung.csproj",
+        "projectUniqueName": "E:\\project 2\\Project2---Tai.Tung.Hung-\\Project2---Tai.Tung.Hung-\\Project2---Tai.Tung.Hung-\\Project2_TaiTungHung\\Project2_TaiTungHung.csproj",
         "projectName": "Project2_TaiTungHung",
-        "projectPath": "E:\\project 2\\Project2---Tai.Tung.Hung-\\Project2---Tai.Tung.Hung-\\Project2_TaiTungHung\\Project2_TaiTungHung.csproj",
+        "projectPath": "E:\\project 2\\Project2---Tai.Tung.Hung-\\Project2---Tai.Tung.Hung-\\Project2---Tai.Tung.Hung-\\Project2_TaiTungHung\\Project2_TaiTungHung.csproj",
         "packagesPath": "C:\\Users\\Tung\\.nuget\\packages\\",
-        "outputPath": "E:\\project 2\\Project2---Tai.Tung.Hung-\\Project2---Tai.Tung.Hung-\\Project2_TaiTungHung\\obj\\",
+        "outputPath": "E:\\project 2\\Project2---Tai.Tung.Hung-\\Project2---Tai.Tung.Hung-\\Project2---Tai.Tung.Hung-\\Project2_TaiTungHung\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
