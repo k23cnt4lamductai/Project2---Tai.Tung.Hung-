@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "E:\\project 2\\Project2---Tai.Tung.Hung-\\Project2---Tai.Tung.Hung-\\Project2---Tai.Tung.Hung-\\Project2_TaiTungHung\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{3E62E132-CB55-4942-B0D8-27FADAF735B1}|Project2_TaiTungHung.csproj|e:\\project 2\\project2---tai.tung.hung-\\project2---tai.tung.hung-\\project2---tai.tung.hung-\\project2_taitunghung\\views\\shared\\_tthlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E62E132-CB55-4942-B0D8-27FADAF735B1}|Project2_TaiTungHung.csproj|solutionrelative:views\\shared\\_tthlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E62E132-CB55-4942-B0D8-27FADAF735B1}|Project2_TaiTungHung.csproj|e:\\project 2\\project2---tai.tung.hung-\\project2---tai.tung.hung-\\project2---tai.tung.hung-\\project2_taitunghung\\views\\tthhome\\tthabout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E62E132-CB55-4942-B0D8-27FADAF735B1}|Project2_TaiTungHung.csproj|solutionrelative:views\\tthhome\\tthabout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3E62E132-CB55-4942-B0D8-27FADAF735B1}|Project2_TaiTungHung.csproj|e:\\project 2\\project2---tai.tung.hung-\\project2---tai.tung.hung-\\project2---tai.tung.hung-\\project2_taitunghung\\views\\tthhome\\tthindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{3E62E132-CB55-4942-B0D8-27FADAF735B1}|Project2_TaiTungHung.csproj|solutionrelative:views\\tthhome\\tthindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -13,14 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{3E62E132-CB55-4942-B0D8-27FADAF735B1}|Project2_TaiTungHung.csproj|e:\\project 2\\project2---tai.tung.hung-\\project2---tai.tung.hung-\\project2---tai.tung.hung-\\project2_taitunghung\\controllers\\sanphamscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3E62E132-CB55-4942-B0D8-27FADAF735B1}|Project2_TaiTungHung.csproj|solutionrelative:controllers\\sanphamscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3E62E132-CB55-4942-B0D8-27FADAF735B1}|Project2_TaiTungHung.csproj|e:\\project 2\\project2---tai.tung.hung-\\project2---tai.tung.hung-\\project2---tai.tung.hung-\\project2_taitunghung\\views\\shared\\_tthlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3E62E132-CB55-4942-B0D8-27FADAF735B1}|Project2_TaiTungHung.csproj|solutionrelative:views\\shared\\_tthlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3E62E132-CB55-4942-B0D8-27FADAF735B1}|Project2_TaiTungHung.csproj|e:\\project 2\\project2---tai.tung.hung-\\project2---tai.tung.hung-\\project2---tai.tung.hung-\\project2_taitunghung\\views\\tthhome\\tthabout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3E62E132-CB55-4942-B0D8-27FADAF735B1}|Project2_TaiTungHung.csproj|solutionrelative:views\\tthhome\\tthabout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3E62E132-CB55-4942-B0D8-27FADAF735B1}|Project2_TaiTungHung.csproj|e:\\project 2\\project2---tai.tung.hung-\\project2---tai.tung.hung-\\project2---tai.tung.hung-\\project2_taitunghung\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -62,11 +62,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 12,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "TTHIndex.cshtml",
               "DocumentMoniker": "E:\\project 2\\Project2---Tai.Tung.Hung-\\Project2---Tai.Tung.Hung-\\Project2---Tai.Tung.Hung-\\Project2_TaiTungHung\\Views\\TTHHome\\TTHIndex.cshtml",
               "RelativeDocumentMoniker": "Views\\TTHHome\\TTHIndex.cshtml",
@@ -103,7 +103,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "SanPhamsController.cs",
               "DocumentMoniker": "E:\\project 2\\Project2---Tai.Tung.Hung-\\Project2---Tai.Tung.Hung-\\Project2---Tai.Tung.Hung-\\Project2_TaiTungHung\\Controllers\\SanPhamsController.cs",
               "RelativeDocumentMoniker": "Controllers\\SanPhamsController.cs",
@@ -111,8 +111,7 @@
               "RelativeToolTip": "Controllers\\SanPhamsController.cs",
               "ViewState": "AgIAACwAAAAAAAAAAAAqwKMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-20T08:19:33.473Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-20T08:19:33.473Z"
             },
             {
               "$type": "Document",
@@ -148,12 +147,11 @@
               "RelativeToolTip": "Controllers\\TTHHomeController.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-20T07:50:58.467Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-20T07:50:58.467Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "appsettings.json",
               "DocumentMoniker": "E:\\project 2\\Project2---Tai.Tung.Hung-\\Project2---Tai.Tung.Hung-\\Project2---Tai.Tung.Hung-\\Project2_TaiTungHung\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -161,8 +159,7 @@
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-08-20T08:05:12.891Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-20T08:05:12.891Z"
             },
             {
               "$type": "Document",
@@ -190,7 +187,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "TTHAbout.cshtml",
               "DocumentMoniker": "E:\\project 2\\Project2---Tai.Tung.Hung-\\Project2---Tai.Tung.Hung-\\Project2---Tai.Tung.Hung-\\Project2_TaiTungHung\\Views\\TTHHome\\TTHAbout.cshtml",
               "RelativeDocumentMoniker": "Views\\TTHHome\\TTHAbout.cshtml",
@@ -211,18 +208,17 @@
               "RelativeToolTip": "Views\\_ViewStart.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-20T07:41:10.974Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-20T07:41:10.974Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "_TTHLayout.cshtml",
               "DocumentMoniker": "E:\\project 2\\Project2---Tai.Tung.Hung-\\Project2---Tai.Tung.Hung-\\Project2---Tai.Tung.Hung-\\Project2_TaiTungHung\\Views\\Shared\\_TTHLayout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_TTHLayout.cshtml",
               "ToolTip": "E:\\project 2\\Project2---Tai.Tung.Hung-\\Project2---Tai.Tung.Hung-\\Project2---Tai.Tung.Hung-\\Project2_TaiTungHung\\Views\\Shared\\_TTHLayout.cshtml",
               "RelativeToolTip": "Views\\Shared\\_TTHLayout.cshtml",
-              "ViewState": "AgIAAEMAAAAAAAAAAAAAAEUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAEUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-08-20T07:41:04.016Z",
               "EditorCaption": ""
